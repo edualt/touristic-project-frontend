@@ -13,14 +13,6 @@ function App() {
   return (
     <>
     <NavBar />
-    {/* <Button>Hola</Button>
-    <br />
-    Hola hola
-    <br />
-    <label>Email:</label>
-    <Input placeholder={"Email"}/>
-    <Input placeholder={"Roles"} type="select"/>
-    <Card /> */}
     <AdminSideBar />
     </>
   )
